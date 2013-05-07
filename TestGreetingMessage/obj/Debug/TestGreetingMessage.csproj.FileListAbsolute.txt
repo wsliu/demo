@@ -1,7 +1,0 @@
-C:\Susan\Workspace\c#\code\demo\TestGreetingMessage\bin\Debug\TestGreetingMessage.dll
-C:\Susan\Workspace\c#\code\demo\TestGreetingMessage\bin\Debug\TestGreetingMessage.pdb
-C:\Susan\Workspace\c#\code\demo\TestGreetingMessage\bin\Debug\GreetingMessage.dll
-C:\Susan\Workspace\c#\code\demo\TestGreetingMessage\bin\Debug\GreetingMessage.pdb
-C:\Susan\Workspace\c#\code\demo\TestGreetingMessage\obj\Debug\TestGreetingMessage.csprojResolveAssemblyReference.cache
-C:\Susan\Workspace\c#\code\demo\TestGreetingMessage\obj\Debug\TestGreetingMessage.dll
-C:\Susan\Workspace\c#\code\demo\TestGreetingMessage\obj\Debug\TestGreetingMessage.pdb
