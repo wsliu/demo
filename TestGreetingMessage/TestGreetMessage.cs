@@ -1,13 +1,14 @@
 ﻿using System;
 using GreetingMessage;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
+
 
 namespace TestGreetingMessage
 {
-    [TestClass]
+    [TestFixture]
     public class TestGreetMessage
     {
-        [TestMethod]
+        [Test]
         public void should_return_hello_as_default_greeting_message()
         {
             var message = new SimpleGreeting();
