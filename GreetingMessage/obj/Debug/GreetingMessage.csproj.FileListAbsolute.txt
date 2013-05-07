@@ -1,0 +1,5 @@
+C:\Susan\Workspace\c#\code\demo\GreetingMessage\bin\Debug\GreetingMessage.dll
+C:\Susan\Workspace\c#\code\demo\GreetingMessage\bin\Debug\GreetingMessage.pdb
+C:\Susan\Workspace\c#\code\demo\GreetingMessage\obj\Debug\GreetingMessage.csprojResolveAssemblyReference.cache
+C:\Susan\Workspace\c#\code\demo\GreetingMessage\obj\Debug\GreetingMessage.dll
+C:\Susan\Workspace\c#\code\demo\GreetingMessage\obj\Debug\GreetingMessage.pdb

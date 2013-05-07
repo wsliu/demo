@@ -1,1 +1,11 @@
 C:\Susan\Workspace\c#\code\demo\demo\bin\Debug\demo.exe.config
+C:\Susan\Workspace\c#\code\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+C:\Susan\Workspace\c#\code\demo\demo\obj\Debug\demo.Form1.resources
+C:\Susan\Workspace\c#\code\demo\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Susan\Workspace\c#\code\demo\demo\obj\Debug\demo.csproj.GenerateResource.Cache
+C:\Susan\Workspace\c#\code\demo\demo\bin\Debug\demo.exe
+C:\Susan\Workspace\c#\code\demo\demo\bin\Debug\demo.pdb
+C:\Susan\Workspace\c#\code\demo\demo\bin\Debug\GreetingMessage.dll
+C:\Susan\Workspace\c#\code\demo\demo\bin\Debug\GreetingMessage.pdb
+C:\Susan\Workspace\c#\code\demo\demo\obj\Debug\demo.exe
+C:\Susan\Workspace\c#\code\demo\demo\obj\Debug\demo.pdb
